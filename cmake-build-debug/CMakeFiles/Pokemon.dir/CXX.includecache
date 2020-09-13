@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/CLion Programs/Pokemon/AITrainer.cpp
+random
+-
+chrono
+-
+functional
+-
+AITrainer.h
+/cygdrive/d/CLion Programs/Pokemon/AITrainer.h
+
+/cygdrive/d/CLion Programs/Pokemon/AITrainer.h
+Trainer.h
+/cygdrive/d/CLion Programs/Pokemon/Trainer.h
+string
+-
+
+/cygdrive/d/CLion Programs/Pokemon/Move.cpp
+Move.h
+/cygdrive/d/CLion Programs/Pokemon/Move.h
+
+/cygdrive/d/CLion Programs/Pokemon/Move.h
+string
+-
+
+/cygdrive/d/CLion Programs/Pokemon/Pokemon.cpp
+Pokemon.h
+/cygdrive/d/CLion Programs/Pokemon/Pokemon.h
+iostream
+-
+
+/cygdrive/d/CLion Programs/Pokemon/Pokemon.h
+vector
+-
+Move.h
+/cygdrive/d/CLion Programs/Pokemon/Move.h
+string
+-
+
+/cygdrive/d/CLion Programs/Pokemon/Trainer.cpp
+Trainer.h
+/cygdrive/d/CLion Programs/Pokemon/Trainer.h
+iostream
+-
+
+/cygdrive/d/CLion Programs/Pokemon/Trainer.h
+string
+-
+vector
+-
+Pokemon.h
+/cygdrive/d/CLion Programs/Pokemon/Pokemon.h
+
+/cygdrive/d/CLion Programs/Pokemon/main.cpp
+iostream
+-
+vector
+-
+string
+-
+random
+-
+chrono
+-
+functional
+-
+Move.h
+/cygdrive/d/CLion Programs/Pokemon/Move.h
+Pokemon.h
+/cygdrive/d/CLion Programs/Pokemon/Pokemon.h
+Trainer.h
+/cygdrive/d/CLion Programs/Pokemon/Trainer.h
+AITrainer.h
+/cygdrive/d/CLion Programs/Pokemon/AITrainer.h
+
